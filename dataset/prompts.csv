@@ -1,0 +1,12 @@
+
+id,domain,prompt_type,prompt
+1,Education,Simple,Explain machine learning in simple English.
+2,Education,Detailed,Explain three benefits of online learning with examples.
+3,Healthcare,Simple,Give general tips for maintaining a healthy lifestyle.
+4,Healthcare,Detailed,Explain why people should consult a doctor before taking medication.
+5,Coding,Simple,Write a Python program to add two numbers.
+6,Coding,Detailed,Explain a Python for loop with a simple example.
+7,Travel,Simple,Suggest a two-day Chennai travel itinerary on a budget.
+8,Business,Detailed,Explain three ways a small business can attract customers.
+9,Environment,Simple,Give five ways to reduce plastic waste.
+10,Technology,Complex,Explain the advantages and limitations of artificial intelligence.
